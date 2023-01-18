@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaBatch15.iml" filepath="$PROJECT_DIR$/JavaBatch15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBatch15Project.iml" filepath="$PROJECT_DIR$/JavaBatch15Project.iml" />
     </modules>
   </component>
 </project>
