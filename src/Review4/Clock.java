@@ -2,14 +2,15 @@ package Review4;
 
 public class Clock {
     public static void main(String[] args) {
+        for (int a = 0; a < 24; a++) {
 
-        for (int i = 0; i <= 1; i++) {
-            for (int b = 0; b <= 0; b++) {
-                for (int c = 1; c <= 59; c++) {
+            for (int b = 1; b <60; b++) {
 
-                    System.out.println(i + " " + b + " " + c);
-                }
+                if (b<10) {
+                    System.out.println(a + ":" + "0" + b);
+                }else
+                    System.out.println(a + ":" + b);
             }
         }
+        }
     }
-}
